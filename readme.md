@@ -1,1 +1,1 @@
-# FoodOrdering-CalorieTracking
+# Food Ordering & Calorie Tracking App

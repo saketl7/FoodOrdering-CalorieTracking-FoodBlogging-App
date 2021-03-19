@@ -1,4 +1,4 @@
 # Human Computer Interaction
 
 ## UI/UX Design
-![](demo/demo.gif)
+![](https://github.com/saketlakhotia17/FoodOrdering-CalorieTracking-App/blob/master/demo/demo.gif)

@@ -26,11 +26,11 @@ Android: 4.0 and Above
 Active Internet Connection
 
 ## Number of modules and their respective details
-Module 1: Login and Sign-Up Page
-Module 2: Food Blogging Feed
-Module 3: Restaurants and Menu  Order Food 
-Module 4: Offers
-Module 5: Changing Basic Account Details
+- Module 1: Login and Sign-Up Page
+- Module 2: Food Blogging Feed
+- Module 3: Restaurants and Menu  Order Food 
+- Module 4: Offers
+- Module 5: Changing Basic Account Details
 
 
 ![image](https://user-images.githubusercontent.com/42898691/111901933-d92c8880-8a60-11eb-92cb-89fe104f5380.png)

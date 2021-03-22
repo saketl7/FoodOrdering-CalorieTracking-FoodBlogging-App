@@ -34,7 +34,7 @@ public class login extends AppCompatActivity {
 
             public void validate(String inputEmail, String inputUsername) {
                 if((inputEmail.equals("saket@gmail.com"))&&(inputUsername.equals("12345"))){
-                    Intent intent = new Intent(login.this, MainActivity.class);
+                    Intent intent = new Intent(login.this, calorie.class);
                     startActivity(intent);
                     Toast.makeText(login.this, "You have successfully logged in", Toast.LENGTH_SHORT).show();
                 }else{

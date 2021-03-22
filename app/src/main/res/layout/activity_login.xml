@@ -14,8 +14,7 @@
         android:fontFamily="@font/roboto_light"
         android:text="Log In"
         android:textColor="@color/black"
-        android:textSize="30sp"
-        android:textStyle="bold"
+        android:textSize="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -32,8 +31,7 @@
         android:fontFamily="@font/roboto_light"
         android:text="Forgot Password?"
         android:textColor="@color/colorBlack"
-        android:textSize="18sp"
-        android:textStyle="bold"
+        android:textSize="15dp"
         app:layout_constraintEnd_toEndOf="@+id/inputUsername"
         app:layout_constraintTop_toBottomOf="@+id/inputUsername" />
 
@@ -59,7 +57,7 @@
         android:textColor="@color/black"
         android:textColorHint="@color/colorBlack"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 

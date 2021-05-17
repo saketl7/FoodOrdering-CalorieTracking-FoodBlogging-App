@@ -1,4 +1,4 @@
 # Food Ordering & Calorie Tracking App
 
-## Preview
+## UI Design Preview
 ![](demo/demo.gif)
